@@ -1,0 +1,2 @@
+# Project content
+In this project we give the code that performs Reduced Density Matrix Functional Theory (RDMFT) calculations within the Octopus TDDFT open-source software ... The code is written in Fortran and cannot be ran with this file alone. If you are interested in running the code you need to download it from the Octopus repository. The purpose of this project is to provide detailed explanation of the structure of the RDMFT code. Instructions on how to run the code can be found in .... For calculation performed using this code have a look at ..
